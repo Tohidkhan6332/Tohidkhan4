@@ -25,63 +25,63 @@ termux-setup-storage
 ```
  2.
  ```bash
-$pkg update
+pkg update
 ```
 3.
  ```bash
-$pkg upgrade
+pkg upgrade
 ```
 4.
  ```bash
-$pkg install git
+pkg install git
 ```
 5.
  ```bash
-$pkg install python
+pkg install python
 ```
 6.
  ```bash
-$pkg install python2
+pkg install python2
 ```
 7.
  ```bash
-$pip install requests
+pip install requests
 ```
 8.
  ```bash
-$pip install mechanize
+pip install mechanize
 ```
 9.
  ```bash
-$pip install lolcat
+pip install lolcat
 ```
 10.
  ```bash
-$pip install bs4
+pip install bs4
 ```
 11.
  ```bash
-$git clone https://github.com/Tohidkhan6332/Tohidkhan4.git
+git clone https://github.com/Tohidkhan6332/Tohidkhan4.git
 ```
 12.
  ```bash
-$ls
+ls
 ```
 13.
  ```bash
-$cd Tohidkhan4
+cd Tohidkhan4
 ```
 14.
  ```bash
-$ls
+ls
 ```
 15.
  ```bash
-$chmod 777 Tohid4.py
+chmod 777 Tohid4.py
 ```
 16.
  ```bash
-$python Tohid4.py
+python Tohid4.py
 ```
 
 
